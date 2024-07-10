@@ -1,7 +1,18 @@
+# Mineable Reinforced Deepslate
 
+**When you mine reinforced deepslate with a pickaxe, it will drop!**
 
+##
 
+With any pickaxe, it takes **82.5 seconds to mine 1 reinforced deepslate**
 
+(**enchantments and kind of pickaxe doens't matter**)
+
+--> Per ancient city there are **56 blocks** of reinforced deepslate
+
+To mine all of these blocks, it would take you **77 minutes**
+
+---
 
 ## Datapack created by Jodek published on modrinth: https://modrinth.com/user/Jodek
 
